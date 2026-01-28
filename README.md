@@ -6,6 +6,6 @@
 
 # Cube-Pet
 
-A gorilla tag pet, only one rule cube does not like forest or the entrence to canyons it will fall through.
+A gorilla tag pet, it is friends with canyons and forest now.
 
 <div>
